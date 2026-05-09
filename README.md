@@ -8,7 +8,7 @@ A Gen-Z vibe blog platform built with a 3-tier architecture — React frontend, 
 
 ---
 ---
-The Project is live on the http://16.16.200.133
+The Project is live on the AWS EC2 Instance http://16.16.200.133
 ---
 ---
 
