@@ -1,7 +1,7 @@
 # 🚀 Z-gen — Blog Platform
 
 A Gen-Z vibe blog platform built with a 3-tier architecture — React frontend, Node.js backend, and PostgreSQL database.
-
+A Project with the DevsecOps Practices and Workflows Implemented.
 ![Tech Stack](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
 ![Tech Stack](https://img.shields.io/badge/Node.js-20-339933?style=flat-square&logo=node.js)
 ![Tech Stack](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql)
