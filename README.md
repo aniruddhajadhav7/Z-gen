@@ -14,7 +14,7 @@ A Gen-Z vibe blog platform built with a 3-tier architecture — React frontend, 
 | Branch | Purpose |
 |--------|---------|
 | `main` | Source code + EC2 bare-metal deployment |
-| `devops` | Full DevSecOps — Docker, Kubernetes (EKS), Terraform, CI/CD pipeline, security scanning |
+| `devOps` | Full DevSecOps — Docker, Kubernetes (EKS), Terraform, CI/CD pipeline, security scanning |
 
 ---
 
