@@ -7,6 +7,16 @@ A Gen-Z vibe blog platform built with a 3-tier architecture — React frontend, 
 ![Tech Stack](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql)
 
 ---
+---
+
+## 🌿 Branch Strategy
+
+| Branch | Purpose |
+|--------|---------|
+| `main` | Source code + EC2 bare-metal deployment |
+| `devops` | Full DevSecOps — Docker, Kubernetes (EKS), Terraform, CI/CD pipeline, security scanning |
+
+---
 
 ## ✨ Features
 
