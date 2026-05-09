@@ -1,5 +1,0 @@
-aws_region      = "eu-north-1"
-environment     = "dev"
-cluster_name    = "z-gen-eks"
-cluster_version = "1.32"
-vpc_cidr        = "10.0.0.0/16"
