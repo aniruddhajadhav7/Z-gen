@@ -97,4 +97,4 @@ The Vite dev server starts on `http://localhost:3000` and proxies `/api` request
 
 ---
 
-Built with 💜 by Z-gen. No cap, this blog platform hits different. 🚀
+Built with 💜 by Aniruddha Jadhav. No cap, this blog platform hits different. 🚀
