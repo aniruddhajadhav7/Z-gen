@@ -200,7 +200,7 @@ spec:
               echo "DB is ready!"
       containers:
         - name: backend
-          image: ghcr.io/iam-veeramalla/Z-gen/z-gen-backend:75da1da
+          image: ghcr.io/aniruddhajadhav7/Z-gen/z-gen-backend:75da1da
           ports:
             - containerPort: 5000
               protocol: TCP
@@ -307,7 +307,7 @@ spec:
           effect: "NoSchedule"
       containers:
         - name: frontend
-          image: ghcr.io/iam-veeramalla/Z-gen/z-gen-frontend:75da1da
+          image: ghcr.io/aniruddhajadhav7/Z-gen/z-gen-frontend:75da1da
           ports:
             - containerPort: 8080
               protocol: TCP
