@@ -6,7 +6,7 @@
 
 set -e
 
-echo "🛤️  Setting up Z-gen Blog Platform..."
+echo "🎇  Setting up Z-gen Blog Platform..."
 echo "==========================================="
 
 # --- Update system ---
