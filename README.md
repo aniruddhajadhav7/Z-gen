@@ -8,7 +8,7 @@ A Project with the DevsecOps Practices and Workflows Implemented.
 
 ---
 ---
-The Project is live on the AWS EC2 Instance http://16.16.200.133
+The Project is live on the AWS EC2 Instance http://13.49.41.50
 ---
 ---
 
