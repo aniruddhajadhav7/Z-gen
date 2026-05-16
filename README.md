@@ -12,7 +12,7 @@ The Project is live on the AWS EC2 Instance http://13.49.41.50
 ---
 ---
 
-## 🌿 Branch Strategy
+##  Branch Strategy
 
 | Branch | Purpose |
 |--------|---------|
@@ -23,13 +23,13 @@ The Project is live on the AWS EC2 Instance http://13.49.41.50
 
 ## ✨ Features
 
-- 📝 Create blog posts with emoji vibes
-- ✏️ Edit your existing posts
-- 🗑️ Delete posts you're not feeling anymore
-- 💬 Comment on posts
-- 🎨 Gen-Z dark UI with glassmorphism and gradients
+-  Create blog posts with emoji vibes
+-  Edit your existing posts
+-  Delete posts you're not feeling anymore
+-  Comment on posts
+-  Gen-Z dark UI with glassmorphism and gradients
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
